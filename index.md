@@ -8,7 +8,8 @@
 
 [Lien vers Moodle](http://elearning.iessid.be/course/view.php?id=17)
 
-[Annexe une](annexes.md)
+![Naples](c7d18a59d2cb4ce5d9a4feffd9f3eda5.jpg)
+![naples 2](divers/c7d18a59d2cb4ce5d9a4feffd9f3eda5.jpg)
 
 You can use the [editor on GitHub](https://github.com/jmarchand-iessid/aoriprojet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
