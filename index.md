@@ -8,7 +8,7 @@
 
 [Lien vers Moodle](http://elearning.iessid.be/course/view.php?id=17)
 
-![Naples, début du 20e siècle]
+
 
 You can use the [editor on GitHub](https://github.com/jmarchand-iessid/aoriprojet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
