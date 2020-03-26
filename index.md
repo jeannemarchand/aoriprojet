@@ -1,4 +1,11 @@
-## Projet AORI
+# Projet AORI
+
+- premiere partie
+- deuxieme partie
+
+1. **texte en gras**
+2. _texte en italique_
+
 
 You can use the [editor on GitHub](https://github.com/jmarchand-iessid/aoriprojet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
